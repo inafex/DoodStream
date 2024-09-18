@@ -22,8 +22,8 @@ A comprehensive command-line interface for interacting with the Doodstream API. 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/inafex/doodstream-api-client.git
-   cd doodstream-api-client
+   https://github.com/inafex/DoodStream.git
+   cd DoodStream
    ```
 
 2. Install the required dependencies:
